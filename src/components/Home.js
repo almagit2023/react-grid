@@ -82,7 +82,7 @@ function Home() {
       </div>
       <div className='m-3 shadow-md'>
         <div className="left-head-style bg-black p-4">
-          <h3 className='text-slate-300 text-2xl text-center'>MacBook Pro</h3>
+          <h3 className='text-slate-300 text-2xl text-center'>Ipad</h3>
         </div>
         <p className='flex justify-center text-xl p-2 mt-2 m-auto  text-slate-200 bg-blue-700 w-36 rounded-md'>
           <h3 className='font-bold'>Price : $560</h3>
